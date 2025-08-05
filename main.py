@@ -17,4 +17,5 @@ class Car():
     def to_dict(self):
         return self.__dict__
 print("Bu fayilda ish tugadi")
+print("davomi bor")
         
